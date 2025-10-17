@@ -1,0 +1,1664 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HunterCobros
+</name>
+</assembly>
+<members>
+<member name="F:HunterCobros.Recibo.lblanticipo">
+	<summary>
+Control lblanticipo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.BtnGuardar">
+	<summary>
+Control BtnGuardar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.BtnCancelar">
+	<summary>
+Control BtnCancelar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.RadAjaxLoadingPanel1">
+	<summary>
+Control RadAjaxLoadingPanel1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.RnMensajesError">
+	<summary>
+Control RnMensajesError.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.Label4">
+	<summary>
+Control Label4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.TxtIdentificacion">
+	<summary>
+Control TxtIdentificacion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.lblfecha">
+	<summary>
+Control lblfecha.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.Label5">
+	<summary>
+Control Label5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.lblcliente">
+	<summary>
+Control lblcliente.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.Label6">
+	<summary>
+Control Label6.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.txt_email">
+	<summary>
+Control txt_email.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.Label7">
+	<summary>
+Control Label7.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.txt_recibe">
+	<summary>
+Control txt_recibe.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.lblcantidad">
+	<summary>
+Control lblcantidad.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.Label8">
+	<summary>
+Control Label8.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.txt_nombres_recibimos">
+	<summary>
+Control txt_nombres_recibimos.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.Label10">
+	<summary>
+Control Label10.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.txt_observacion">
+	<summary>
+Control txt_observacion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.Label17">
+	<summary>
+Control Label17.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.Cbxcartera">
+	<summary>
+Control Cbxcartera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.radtabdatos">
+	<summary>
+Control radtabdatos.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.RadMultiPage1">
+	<summary>
+Control RadMultiPage1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.RadPageView1">
+	<summary>
+Control RadPageView1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.Label2">
+	<summary>
+Control Label2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.Cbxforma">
+	<summary>
+Control Cbxforma.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.Label1">
+	<summary>
+Control Label1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.txt_valor">
+	<summary>
+Control txt_valor.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.lblbanco">
+	<summary>
+Control lblbanco.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.Cbxbanco">
+	<summary>
+Control Cbxbanco.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.Label3">
+	<summary>
+Control Label3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.txt_documento">
+	<summary>
+Control txt_documento.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.BtnProcesar">
+	<summary>
+Control BtnProcesar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.Label13">
+	<summary>
+Control Label13.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.Cbxplazo">
+	<summary>
+Control Cbxplazo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.rdpFecha">
+	<summary>
+Control rdpFecha.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.Label14">
+	<summary>
+Control Label14.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.txt_voucher">
+	<summary>
+Control txt_voucher.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.Label15">
+	<summary>
+Control Label15.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.CbxretenIva">
+	<summary>
+Control CbxretenIva.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.CbxretenFuente">
+	<summary>
+Control CbxretenFuente.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.Label16">
+	<summary>
+Control Label16.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.txt_retencion">
+	<summary>
+Control txt_retencion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.Grddetalle">
+	<summary>
+Control Grddetalle.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.BaseAnticipo">
+	<summary>
+Control BaseAnticipo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.RadPageView2">
+	<summary>
+Control RadPageView2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.Label9">
+	<summary>
+Control Label9.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.Cbxreferencia">
+	<summary>
+Control Cbxreferencia.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.txt_ref">
+	<summary>
+Control txt_ref.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.Label12">
+	<summary>
+Control Label12.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.txt_observacionRef">
+	<summary>
+Control txt_observacionRef.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.BtnProcesarRef">
+	<summary>
+Control BtnProcesarRef.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.Grdreferencia">
+	<summary>
+Control Grdreferencia.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.ObjectDataSource1">
+	<summary>
+Control ObjectDataSource1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.RadPageView3">
+	<summary>
+Control RadPageView3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.CheckBox">
+	<summary>
+Control CheckBox.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.CheckBox1">
+	<summary>
+Control CheckBox1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.CheckBox2">
+	<summary>
+Control CheckBox2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.CheckBox3">
+	<summary>
+Control CheckBox3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.CheckBox4">
+	<summary>
+Control CheckBox4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.CheckBox5">
+	<summary>
+Control CheckBox5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.CheckBox6">
+	<summary>
+Control CheckBox6.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.CheckBox7">
+	<summary>
+Control CheckBox7.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.CheckBox8">
+	<summary>
+Control CheckBox8.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.Label11">
+	<summary>
+Control Label11.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.Txt_otros">
+	<summary>
+Control Txt_otros.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.RadScriptManager1">
+	<summary>
+Control RadScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Recibo.RadAjaxManager1">
+	<summary>
+Control RadAjaxManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="T:HunterCobros.dsHunterCobro.BANCODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.TARJETADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.FORMADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.ANTICIPO_DETALLEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.CONSULTARDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.REIMPRESIONDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.REFERENCIADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.REFERENCIA_DETALLEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.PLAZODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.RETENCIONIVADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.RETENCIONFUENTEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.ANTICIPO_REFERENCIADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.CARTERADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.BANCORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.TARJETARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.FORMARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.ANTICIPO_DETALLERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.CONSULTARRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.REIMPRESIONRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.REFERENCIARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.REFERENCIA_DETALLERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.PLAZORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.RETENCIONIVARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.RETENCIONFUENTERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.ANTICIPO_REFERENCIARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.CARTERARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.BANCORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.TARJETARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.FORMARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.ANTICIPO_DETALLERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.CONSULTARRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.REIMPRESIONRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.REFERENCIARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.REFERENCIA_DETALLERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.PLAZORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.RETENCIONIVARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.RETENCIONFUENTERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.ANTICIPO_REFERENCIARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro.CARTERARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HunterCobros.dsHunterCobro">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="M:HunterCobros.Recibo.Page_Load(System.Object,System.EventArgs)">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Load de Pagina
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Recibo.Habilita_Control(System.Boolean,System.String)">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Habilitar Control
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Recibo.LimpiaControles">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Limpiar Controles
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Recibo.InicializarControl">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Iniciar Controles
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Recibo.FechaSistema">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Fecha de Sistema
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Recibo.CargaPago">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Carga Forma de Pago
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Recibo.CargaCartera">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Carga Usuario Cartera
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Recibo.CargaPlazo">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Carga Forma de Pago
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Recibo.CargaReferencia">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Carga Forma de Pago
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Recibo.CargaBanco">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Cargar Banco
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Recibo.CargaTarjeta">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Cargar Tarjeta
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Recibo.AdicionarRegistro">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Adicionar Registro
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Recibo.AdicionarReferencia">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Adicionar Registro
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Recibo.ConsultaRuta">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Obter Ruta del Pdf
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Recibo.Documento">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Para Generar el Documento
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Recibo.ValidaTarjeta(System.String)">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Validar de Tarjeta
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Recibo.EnvioEmailPdf">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Generar el PDf
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Recibo.BtnProcesar_Click(System.Object,System.EventArgs)">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Boton Procesar
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Recibo.BtnGuardar_Click(System.Object,System.EventArgs)">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Boton Guardar
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Recibo.BtnCancelar_Click(System.Object,System.EventArgs)">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Boton Salir
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Recibo.TxtIdentificacion_TextChanged(System.Object,System.EventArgs)">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Control de Identificacion
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Recibo.Cbxforma_SelectedIndexChanged(System.Object,Telerik.Web.UI.RadComboBoxSelectedIndexChangedEventArgs)">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Control de Forma 
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Recibo.Captura_Error(System.Exception)">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: captura el error
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Recibo.Grddetalle_NeedDataSource(System.Object,Telerik.Web.UI.GridNeedDataSourceEventArgs)">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Control para llenar el grid
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Recibo.Grddetalle_ItemCommand(System.Object,Telerik.Web.UI.GridCommandEventArgs)">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: control del grid
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Recibo.Grdreferencia_NeedDataSource(System.Object,Telerik.Web.UI.GridNeedDataSourceEventArgs)">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Control para llenar el grid
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Recibo.Grdreferencia_ItemCommand(System.Object,Telerik.Web.UI.GridCommandEventArgs)">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: control del grid
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Principal.Page_Load(System.Object,System.EventArgs)">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Load de Pagina
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Principal.Habilita_Menu(System.String)">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Habilitar Menu
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Principal.Llena_Menu">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: MÉTODO PARA LLENAR EL MENÚ CON LOS ELEMENTOS DEFINIDOS EN LA BASE DE DATOS
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Principal.BtnSalir_Click(System.Object,System.EventArgs)">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Boton Salir
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.login.Page_Load(System.Object,System.EventArgs)">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Pagina Load
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.login.BtnLogin_Click(System.Object,System.EventArgs)">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Boton Aceptar
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.login.Datos_Log_Ingreso(System.String,System.String,System.String)">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Registrar el Log de Ingreso
+ </summary>
+	<remarks></remarks>
+</member><member name="F:HunterCobros.Inicio.RadScriptManager1">
+	<summary>
+Control RadScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Inicio.RadAjaxManager1">
+	<summary>
+Control RadAjaxManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Consultar.RadAjaxLoadingPanel1">
+	<summary>
+Control RadAjaxLoadingPanel1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Consultar.RnMensajesError">
+	<summary>
+Control RnMensajesError.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Consultar.RadScriptManager1">
+	<summary>
+Control RadScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Consultar.RadAjaxManager1">
+	<summary>
+Control RadAjaxManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Consultar.CbxUsuario">
+	<summary>
+Control CbxUsuario.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Consultar.CbxEstado">
+	<summary>
+Control CbxEstado.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Consultar.rdpFechaInicio">
+	<summary>
+Control rdpFechaInicio.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Consultar.rdpFechaFin">
+	<summary>
+Control rdpFechaFin.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Consultar.BtnBuscar">
+	<summary>
+Control BtnBuscar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Consultar.BtnReenviar">
+	<summary>
+Control BtnReenviar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Consultar.BtnImprimir">
+	<summary>
+Control BtnImprimir.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Consultar.Grdconsultar">
+	<summary>
+Control Grdconsultar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Consultar.reciboanulacion">
+	<summary>
+Control reciboanulacion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Principal.Head1">
+	<summary>
+Control Head1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Principal.head">
+	<summary>
+Control head.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Principal.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Principal.imgLogo">
+	<summary>
+Control imgLogo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Principal.imgUser">
+	<summary>
+Control imgUser.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Principal.lblUserName">
+	<summary>
+Control lblUserName.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Principal.BtnSalir">
+	<summary>
+Control BtnSalir.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Principal.RadMenu1">
+	<summary>
+Control RadMenu1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Principal.ContentPlaceHolder1">
+	<summary>
+Control ContentPlaceHolder1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.ReciboAnulacion.Head1">
+	<summary>
+Control Head1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.ReciboAnulacion.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.ReciboAnulacion.RadScriptManager1">
+	<summary>
+Control RadScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.ReciboAnulacion.rntMensajes">
+	<summary>
+Control rntMensajes.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.ReciboAnulacion.lblanticipo">
+	<summary>
+Control lblanticipo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.ReciboAnulacion.CbxMotivo">
+	<summary>
+Control CbxMotivo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.ReciboAnulacion.Btnaceptar">
+	<summary>
+Control Btnaceptar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.ReciboAnulacion.Btnclose">
+	<summary>
+Control Btnclose.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.ReciboAnulacion.txt_comentario">
+	<summary>
+Control txt_comentario.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="M:HunterCobros.ReciboAnulacion.Page_Load(System.Object,System.EventArgs)">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Load de la Pagina
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.ReciboAnulacion.Btnaceptar_Click(System.Object,System.EventArgs)">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Boton Aceptar
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.ReciboAnulacion.CambiarEstado(System.String,System.String,System.Int32)">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Proceso de Cambiar Estado
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.ReciboAnulacion.EnvioEmail">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Envio Mail
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.ReciboAnulacion.Validacion">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Validacion de datos
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.ReciboAnulacion.CargaMotivo">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Cargar Motivo
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.ReciboAnulacion.CargaNuevaSesion">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Cargar Sesion
+ </summary>
+	<remarks></remarks>
+</member><member name="F:HunterCobros.login.Head1">
+	<summary>
+Control Head1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.login.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.login.txt_usuario">
+	<summary>
+Control txt_usuario.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.login.txt_password">
+	<summary>
+Control txt_password.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.login.BtnLogin">
+	<summary>
+Control BtnLogin.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.login.lbl_msg_login">
+	<summary>
+Control lbl_msg_login.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.login.rfvUsuario">
+	<summary>
+Control rfvUsuario.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.login.rfvPassword">
+	<summary>
+Control rfvPassword.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.login.RadAjaxManager1">
+	<summary>
+Control RadAjaxManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.login.RadScriptManager1">
+	<summary>
+Control RadScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.login.RadAjaxLoadingPanel1">
+	<summary>
+Control RadAjaxLoadingPanel1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.login.rntMsgSistema">
+	<summary>
+Control rntMsgSistema.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="P:HunterCobros.Numalet.Decimales">
+	<summary>
+ Indica la cantidad de decimales que se pasarán a entero para la conversión
+ </summary>
+	<remarks>Esta propiedad cambia al cambiar MascaraDecimal por un valor que empieze con '0'</remarks>
+</member><member name="P:HunterCobros.Numalet.CultureInfo">
+	<summary>
+ Objeto CultureInfo utilizado para convertir las cadenas de entrada en números
+ </summary>
+</member><member name="P:HunterCobros.Numalet.SeparadorDecimalSalida">
+	<summary>
+ Indica la cadena a intercalar entre la parte entera y la decimal del número
+ </summary>
+</member><member name="P:HunterCobros.Numalet.MascaraSalidaDecimal">
+	<summary>
+ Indica el formato que se le dara a la parte decimal del número
+ </summary>
+</member><member name="P:HunterCobros.Numalet.LetraCapital">
+	<summary>
+ Indica si la primera letra del resultado debe estár en mayúscula
+ </summary>
+</member><member name="P:HunterCobros.Numalet.ConvertirDecimales">
+	<summary>
+ Indica si se deben convertir los decimales a su expresión nominal
+ </summary>
+</member><member name="P:HunterCobros.Numalet.ApocoparUnoParteEntera">
+	<summary>
+ Indica si de debe cambiar "uno" por "un" en las unidades.
+ </summary>
+</member><member name="P:HunterCobros.Numalet.ApocoparUnoParteDecimal">
+	<summary>
+ Determina si se debe apococopar el "uno" en la parte decimal
+ </summary>
+	<remarks>El valor de esta propiedad cambia al setear ConvertirDecimales</remarks>
+</member><member name="T:HunterCobros.Numalet">
+	<summary>
+ Convierte números en su expresión numérica a su numeral cardinal
+ </summary>
+</member><member name="F:HunterCobros.Consulta_detalle.Head1">
+	<summary>
+Control Head1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Consulta_detalle.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Consulta_detalle.lbltitulo">
+	<summary>
+Control lbltitulo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Consulta_detalle.BtnExportar">
+	<summary>
+Control BtnExportar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Consulta_detalle.GrdConsolidado">
+	<summary>
+Control GrdConsolidado.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Consulta_detalle.GrdConsultarDetalle">
+	<summary>
+Control GrdConsultarDetalle.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:HunterCobros.Consulta_detalle.RadScriptManager1">
+	<summary>
+Control RadScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="M:HunterCobros.Consultar.Page_Load(System.Object,System.EventArgs)">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Pagina Load
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Consultar.BtnBuscar_Click(System.Object,System.EventArgs)">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Boton Buscar
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Consultar.BtnReenviar_Click(System.Object,System.EventArgs)">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Boton Reenviar
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Consultar.Grdconsultar_DetailTableDataBind(System.Object,Telerik.Web.UI.GridDetailTableDataBindEventArgs)">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Seleccionar en el grid 
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Consultar.Grdconsultar_ItemCommand(System.Object,Telerik.Web.UI.GridCommandEventArgs)">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Para Eliminar el Registro
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Consultar.Grdconsultar_ItemDataBound(System.Object,Telerik.Web.UI.GridItemEventArgs)">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Color por Estado
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Consultar.Grdconsultar_NeedDataSource(System.Object,Telerik.Web.UI.GridNeedDataSourceEventArgs)">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Actualizar el grid
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Consultar.Grdconsultar_SelectedIndexChanged(System.Object,System.EventArgs)">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Boton Reemprimir el documento
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Consultar.EnvioEmailPdf(System.String,System.String,System.String,System.String,System.String)">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Proceso de Enviar el Pdf
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Consultar.InicializaVariable">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Iniciar Variables
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Consultar.CollapseAllRows">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Collapse Registro
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Consultar.ConsultaRuta">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: consulta Ruta
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Consultar.Reimpresion(System.String,System.String,System.String,System.Decimal,System.String,System.String,System.String,System.String)">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Reemprision de Documento
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Consultar.Habilita_Control(System.Boolean,System.String)">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Habilitar Cobntrol
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Consultar.InicializaControles">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Iniciar Controles
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Consultar.Consultar">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Proceso de Consultar
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Consultar.CargaUsuario">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Cargar Usuario
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Consultar.CargaEstado">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Cargar Usuario
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Consultar.ControlFecha">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Control de Fecha
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Consultar.SetDatos">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Setear Datos
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Consultar.ObtenerFechaInicio">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Obtener Fecha de Inicio
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Consultar.ObtenerFechaFin">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Obtener Fecha Final
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Consultar.ValidaFecha">
+	<summary>
+ AUTOR: Galo Alvarado
+ FECHA: 07/07/2017
+ COMENTARIO: Validar Fecha
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HunterCobros.Log.Consulta_Formulario(System.String)">
+	<summary>
+ AUTOR: JONATHAN COLOMA
+ FECHA: 23/07/2012
+ COMENTARIO: MÉTODO PARA OBTENER LA INFORMACIÓN DEL FORMULARIO AL CUAL SE INGRESA
+ </summary>
+	<param name="formulario"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:HunterCobros.Log">
+AUTOR:       Galo
+FECHA:       25/08/2017
+OBJETIVO:    ADMINISTRA LAS FUNCIONES DE CONEXIÓN E INGRESO DE DATOS PARA EL LOG DE USUARIOS
+
+</member><member name="P:HunterCobros.My.MyWebExtension.Application">
+	<summary>
+ Devuelve información sobre la aplicación actual.
+ </summary>
+</member><member name="P:HunterCobros.My.MyWebExtension.Computer">
+	<summary>
+ Devuelve información sobre el equipo host.
+ </summary>
+</member><member name="P:HunterCobros.My.MyWebExtension.User">
+	<summary>
+ Devuelve información del usuario web actual.
+ </summary>
+</member><member name="P:HunterCobros.My.MyWebExtension.Request">
+	<summary>
+ Devuelve un objeto Request.
+ </summary>
+</member><member name="P:HunterCobros.My.MyWebExtension.Response">
+	<summary>
+ Devuelve un objeto Response.
+ </summary>
+</member><member name="P:HunterCobros.My.MyWebExtension.Log">
+	<summary>
+ Devuelve el objeto de registro Asp.
+ </summary>
+</member><member name="P:HunterCobros.My.MyWebExtension.WebServices">
+	<summary>
+ Proporciona acceso a los servicios Web agregados a este proyecto.
+ </summary>
+</member><member name="T:HunterCobros.My.MyWebExtension">
+	<summary>
+ Módulo usado para definir las propiedades que están disponibles en el espacio de nombres My para proyectos web.
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

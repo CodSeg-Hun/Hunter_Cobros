@@ -1,0 +1,79 @@
+﻿<!--
+  Para obtener más información sobre cómo configurar la aplicación de ASP.NET, visite
+  http://go.microsoft.com/fwlink/?LinkId=169433
+  -->
+<configuration>
+  <configSections>
+    <sectionGroup name="devExpress">
+      <section name="themes" type="DevExpress.Web.ASPxClasses.ThemesConfigurationSection, DevExpress.Web.v12.1, Version=12.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" requirePermission="false" />
+      <section name="compression" type="DevExpress.Web.ASPxClasses.CompressionConfigurationSection, DevExpress.Web.v12.1, Version=12.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" requirePermission="false" />
+      <section name="settings" type="DevExpress.Web.ASPxClasses.SettingsConfigurationSection, DevExpress.Web.v12.1, Version=12.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" requirePermission="false" />
+      <section name="errors" type="DevExpress.Web.ASPxClasses.ErrorsConfigurationSection, DevExpress.Web.v12.1, Version=12.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" requirePermission="false" />
+    </sectionGroup>
+  </configSections>
+  <!--<connectionStrings>
+		<add name="S3_TURNOSConnectionString" connectionString="Data Source=Superman,41430;Initial Catalog=S3_TURNOS;Persist Security Info=True; User ID=Syshunter;Password=jim24yrt" providerName="System.Data.SqlClient" />
+		<add name="conexion_batman" connectionString="Data Source=superman,41430;Initial Catalog=Intranet;Persist Security Info=True;User ID=intranet;Password=qpzm7931" providerName="System.Data.SqlClient" />
+	</connectionStrings>-->
+  <system.web>
+    <!--<sessionState timeout="60">
+		</sessionState>-->
+    <sessionState mode="InProc" cookieless="true" timeout="60"></sessionState>
+    <compilation debug="true" strict="false" explicit="true" targetFramework="4.0">
+      <assemblies>
+        <add assembly="System.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=B03F5F7F11D50A3A" />
+        <add assembly="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=B77A5C561934E089" />
+        <add assembly="System.Speech, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31BF3856AD364E35" />
+        <add assembly="DevExpress.Web.ASPxEditors.v12.1, Version=12.1.4.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A" />
+      </assemblies>
+    </compilation>
+    <httpHandlers>
+      <add path="Telerik.Web.UI.WebResource.axd" type="Telerik.Web.UI.WebResource" verb="*" validate="false" />
+    </httpHandlers>
+    <customErrors mode="Off" />
+    <pages controlRenderingCompatibilityVersion="3.5" clientIDMode="AutoID" />
+    <!--<httpModules>
+			<add type="DevExpress.Web.ASPxClasses.ASPxHttpHandlerModule, DevExpress.Web.v12.1, Version=12.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" name="ASPxHttpHandlerModule" />
+		</httpModules>
+		<pages>
+			<controls>
+				<add tagPrefix="telerik" namespace="Telerik.Web.UI" assembly="Telerik.Web.UI" />
+			</controls>
+		</pages>-->
+    <httpModules>
+      <add type="DevExpress.Web.ASPxClasses.ASPxHttpHandlerModule, DevExpress.Web.v12.1, Version=12.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" name="ASPxHttpHandlerModule" />
+    </httpModules>
+  </system.web>
+  <system.webServer>
+    <httpProtocol>
+      <customHeaders>
+        <add name="X-UA-Compatible" value="IE=EmulateIE8" />
+      </customHeaders>
+    </httpProtocol>
+    <validation validateIntegratedModeConfiguration="false" />
+    <handlers>
+      <add name="Telerik_Web_UI_WebResource_axd" verb="*" preCondition="integratedMode" path="Telerik.Web.UI.WebResource.axd" type="Telerik.Web.UI.WebResource" />
+    </handlers>
+    <modules>
+      <add type="DevExpress.Web.ASPxClasses.ASPxHttpHandlerModule, DevExpress.Web.v12.1, Version=12.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" name="ASPxHttpHandlerModule" />
+    </modules>
+  </system.webServer>
+  <devExpress>
+    <themes enableThemesAssembly="true" styleSheetTheme="" theme="" />
+    <compression enableHtmlCompression="false" enableCallbackCompression="true" enableResourceCompression="true" enableResourceMerging="true" />
+    <settings rightToLeft="false" />
+    <errors callbackErrorRedirectUrl="" />
+  </devExpress>
+  <appSettings>
+    <add key="ProyectName" value="HunterCobros" />
+    <!--<add key="SmptCliente" value="10.100.89.34" />-->
+	<add key="SmptCliente" value="smtp.office365.com" />
+	<add key="SmptPort" value="587" />
+    <add key="ErrorMailAddress" value="s3taller@carsegsa.com" />
+    <add key="ErrorMailTo" value="galvarado@carsegsa.com;fontaneda@carsegsa.com" />
+    <add key="VentasMailAddress" value="hunteronlinec@carsegsa.com" />
+    <add key="VentasMailUser" value="hunteronlinec@carsegsa.com" />
+    <add key="VentasMailPassword" value="%%HO#2025##" />
+    <add key="UsuarioMailToBcc" value="galvarado@carsegsa.com;fontaneda@carsegsa.com;vreyes@carsegsa.com;jmunizaga@carsegsa.com" />
+  </appSettings>
+</configuration>

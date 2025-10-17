@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<configuration>
+	<configSections>
+		<setting name="3SUpdateHashCode">
+			<value>39785641</value>
+			<estado>1</estado>
+		</setting>
+		<setting name="Debug">
+			<value>N</value>
+			<estado>1</estado>
+		</setting>
+		<setting name="TipoConexion">
+			<value>ConexionParalelo</value>
+			<estado>1</estado>
+		</setting>
+		<setting name="FormaConexion">
+			<value>SQL</value>
+			<estado>1</estado>
+		</setting>
+		<setting name="Mail">
+			<value>3SforBusiness@carsegsa.com</value>
+			<estado>1</estado>
+		</setting>
+		<setting name="SmtpClient">
+			<value>10.100.89.34</value>
+			<estado>1</estado>
+		</setting>
+		<setting name="MailError">
+			<value>mnarea@carsegsa.com</value>
+			<estado>1</estado>
+		</setting>
+		<setting name="Caption">
+			<value>3S | Strategic Software Solutions</value>
+			<estado>1</estado>
+		</setting>
+		<setting name="Base">
+			<value>3S_FINAL_MIGRADA</value>
+			<estado>1</estado>
+		</setting>
+		<setting name="ConexionParaleloSQL">
+			<!--SUPERMAN-->
+			<value>71DD0E0D96CE6BD2F145396F4AB58D88D02ADBC9226A682E93FE50614B3E478DF461951557C1C0008F998474AD4A4636774E5C5BD50CA891B8719AFC85E1B32546B7B16977DBD8351D66A77D66B342972E15C45D2FB4FA6586AB702228C7D618995944598FF228E6655DABE5EB46375756A37589E2076D81</value>
+			<!--HULK / EXTRANET     -->
+			<!--<value>ADCC9F72B142202A5F0CA53F60535A21FD094352A4CC51BDFBEA020CCEEE105874768A5BC2D432367F41F8077D6664F49372F0CD6110C1E4470B864F42B9C0FD2B13BFDB726546AFABCBD4991D0A519DE42542CD0C464E524643B2B79027FB7CF6DF6C2AC161BC0E0CB9FDF01014CB84510A4800EE79FED3F7D509AD48D71859</value>-->
+			<estado>1</estado>
+		</setting>
+		<!--<setting name="ConexionParaleloWINDOWS">
+			<value>06A129922A8384F6A8A1356CDD04FD06709EED626F664A25ADFD907C18D284812EA95FA72C03ACEF45B96CD86FF2A3F6647256BD081E07D053F51EC2CE478051DE887F05DDB89446AEF15EB6DBF614C2A091C4B5B6CB2AA8A86659E036C8BBF068DDA846B14D6F3675A4DEE50B86C7975AB0753E024FB7AD0233EDA42AACB87C3C9D1E607CFF3B61E979CE4B052707E0E0F11C5389A7BD46</value>
+			<estado>1</estado>
+		</setting>-->
+	</configSections>
+	<setting name="nuevoelemento">
+		<value>no lo se</value>
+		<estado>1</estado>
+	</setting>
+</configuration>

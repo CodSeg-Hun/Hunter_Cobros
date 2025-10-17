@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4740EEED-ECD3-427E-A73D-E2B828AE8C14}|HunterCobros\\HunterCobros.vbproj|c:\\desarrollo\\web\\api-rest\\huntercobros2\\huntercobros\\class\\clsreciboprueba.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4740EEED-ECD3-427E-A73D-E2B828AE8C14}|HunterCobros\\HunterCobros.vbproj|solutionrelative:huntercobros\\class\\clsreciboprueba.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4740EEED-ECD3-427E-A73D-E2B828AE8C14}|HunterCobros\\HunterCobros.vbproj|C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\huntercobros\\form\\recibo.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4740EEED-ECD3-427E-A73D-E2B828AE8C14}|HunterCobros\\HunterCobros.vbproj|solutionrelative:huntercobros\\form\\recibo.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4740EEED-ECD3-427E-A73D-E2B828AE8C14}|HunterCobros\\HunterCobros.vbproj|C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\huntercobros\\form\\principal.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{4740EEED-ECD3-427E-A73D-E2B828AE8C14}|HunterCobros\\HunterCobros.vbproj|solutionrelative:huntercobros\\form\\principal.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4740EEED-ECD3-427E-A73D-E2B828AE8C14}|HunterCobros\\HunterCobros.vbproj|c:\\desarrollo\\web\\api-rest\\huntercobros2\\huntercobros\\class\\generarpdf.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4740EEED-ECD3-427E-A73D-E2B828AE8C14}|HunterCobros\\HunterCobros.vbproj|solutionrelative:huntercobros\\class\\generarpdf.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4740EEED-ECD3-427E-A73D-E2B828AE8C14}|HunterCobros\\HunterCobros.vbproj|c:\\desarrollo\\web\\api-rest\\huntercobros2\\huntercobros\\class\\clsrecibo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4740EEED-ECD3-427E-A73D-E2B828AE8C14}|HunterCobros\\HunterCobros.vbproj|solutionrelative:huntercobros\\class\\clsrecibo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4740EEED-ECD3-427E-A73D-E2B828AE8C14}|HunterCobros\\HunterCobros.vbproj|c:\\desarrollo\\web\\api-rest\\huntercobros2\\huntercobros\\class\\creacionpdf.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4740EEED-ECD3-427E-A73D-E2B828AE8C14}|HunterCobros\\HunterCobros.vbproj|solutionrelative:huntercobros\\class\\creacionpdf.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4740EEED-ECD3-427E-A73D-E2B828AE8C14}|HunterCobros\\HunterCobros.vbproj|c:\\desarrollo\\web\\api-rest\\huntercobros2\\huntercobros\\form\\reciboanulacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4740EEED-ECD3-427E-A73D-E2B828AE8C14}|HunterCobros\\HunterCobros.vbproj|solutionrelative:huntercobros\\form\\reciboanulacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4740EEED-ECD3-427E-A73D-E2B828AE8C14}|HunterCobros\\HunterCobros.vbproj|C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\huntercobros\\form\\recibo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4740EEED-ECD3-427E-A73D-E2B828AE8C14}|HunterCobros\\HunterCobros.vbproj|solutionrelative:huntercobros\\form\\recibo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4740EEED-ECD3-427E-A73D-E2B828AE8C14}|HunterCobros\\HunterCobros.vbproj|C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\huntercobros\\form\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4740EEED-ECD3-427E-A73D-E2B828AE8C14}|HunterCobros\\HunterCobros.vbproj|solutionrelative:huntercobros\\form\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4740EEED-ECD3-427E-A73D-E2B828AE8C14}|HunterCobros\\HunterCobros.vbproj|C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\huntercobros\\form\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4740EEED-ECD3-427E-A73D-E2B828AE8C14}|HunterCobros\\HunterCobros.vbproj|solutionrelative:huntercobros\\form\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4740EEED-ECD3-427E-A73D-E2B828AE8C14}|HunterCobros\\HunterCobros.vbproj|C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\huntercobros\\form\\consultar_detalle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4740EEED-ECD3-427E-A73D-E2B828AE8C14}|HunterCobros\\HunterCobros.vbproj|solutionrelative:huntercobros\\form\\consultar_detalle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4740EEED-ECD3-427E-A73D-E2B828AE8C14}|HunterCobros\\HunterCobros.vbproj|C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\huntercobros\\form\\consultar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4740EEED-ECD3-427E-A73D-E2B828AE8C14}|HunterCobros\\HunterCobros.vbproj|solutionrelative:huntercobros\\form\\consultar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4740EEED-ECD3-427E-A73D-E2B828AE8C14}|HunterCobros\\HunterCobros.vbproj|C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\huntercobros\\form\\login.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4740EEED-ECD3-427E-A73D-E2B828AE8C14}|HunterCobros\\HunterCobros.vbproj|solutionrelative:huntercobros\\form\\login.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenerarPdf.vb",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\HunterCobros\\class\\GenerarPdf.vb",
+              "RelativeDocumentMoniker": "HunterCobros\\class\\GenerarPdf.vb",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\HunterCobros\\class\\GenerarPdf.vb",
+              "RelativeToolTip": "HunterCobros\\class\\GenerarPdf.vb",
+              "ViewState": "AgIAALAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-17T14:42:11.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Clsreciboprueba.vb",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\HunterCobros\\class\\Clsreciboprueba.vb",
+              "RelativeDocumentMoniker": "HunterCobros\\class\\Clsreciboprueba.vb",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\HunterCobros\\class\\Clsreciboprueba.vb",
+              "RelativeToolTip": "HunterCobros\\class\\Clsreciboprueba.vb",
+              "ViewState": "AgIAALcBAAAAAAAAAAAIwOABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-17T14:41:41.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Clsrecibo.vb",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\HunterCobros\\class\\Clsrecibo.vb",
+              "RelativeDocumentMoniker": "HunterCobros\\class\\Clsrecibo.vb",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\HunterCobros\\class\\Clsrecibo.vb",
+              "RelativeToolTip": "HunterCobros\\class\\Clsrecibo.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-17T14:41:20.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreacionPdf.vb",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\HunterCobros\\class\\CreacionPdf.vb",
+              "RelativeDocumentMoniker": "HunterCobros\\class\\CreacionPdf.vb",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\HunterCobros\\class\\CreacionPdf.vb",
+              "RelativeToolTip": "HunterCobros\\class\\CreacionPdf.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-17T14:41:15.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReciboAnulacion.aspx",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\HunterCobros\\form\\ReciboAnulacion.aspx",
+              "RelativeDocumentMoniker": "HunterCobros\\form\\ReciboAnulacion.aspx",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\HunterCobros\\form\\ReciboAnulacion.aspx",
+              "RelativeToolTip": "HunterCobros\\form\\ReciboAnulacion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-17T14:39:07.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Recibo.aspx",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\HunterCobros\\form\\Recibo.aspx",
+              "RelativeDocumentMoniker": "HunterCobros\\form\\Recibo.aspx",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\HunterCobros\\form\\Recibo.aspx",
+              "RelativeToolTip": "HunterCobros\\form\\Recibo.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-17T14:37:46.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Inicio.aspx",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\HunterCobros\\form\\Inicio.aspx",
+              "RelativeDocumentMoniker": "HunterCobros\\form\\Inicio.aspx",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\HunterCobros\\form\\Inicio.aspx",
+              "RelativeToolTip": "HunterCobros\\form\\Inicio.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-17T14:37:12.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Principal.Master",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\HunterCobros\\form\\Principal.Master",
+              "RelativeDocumentMoniker": "HunterCobros\\form\\Principal.Master",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\HunterCobros\\form\\Principal.Master",
+              "RelativeToolTip": "HunterCobros\\form\\Principal.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-14T20:46:21.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Recibo.aspx.vb",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\HunterCobros\\form\\Recibo.aspx.vb",
+              "RelativeDocumentMoniker": "HunterCobros\\form\\Recibo.aspx.vb",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\HunterCobros\\form\\Recibo.aspx.vb",
+              "RelativeToolTip": "HunterCobros\\form\\Recibo.aspx.vb",
+              "ViewState": "AgIAAB0BAAAAAAAAAAAAAEQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-14T20:52:20.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Consultar_detalle.aspx",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\HunterCobros\\form\\Consultar_detalle.aspx",
+              "RelativeDocumentMoniker": "HunterCobros\\form\\Consultar_detalle.aspx",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\HunterCobros\\form\\Consultar_detalle.aspx",
+              "RelativeToolTip": "HunterCobros\\form\\Consultar_detalle.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-17T14:37:02.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Consultar.aspx",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\HunterCobros\\form\\Consultar.aspx",
+              "RelativeDocumentMoniker": "HunterCobros\\form\\Consultar.aspx",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\HunterCobros\\form\\Consultar.aspx",
+              "RelativeToolTip": "HunterCobros\\form\\Consultar.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-17T14:36:39.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "login.aspx.vb",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\HunterCobros\\form\\login.aspx.vb",
+              "RelativeDocumentMoniker": "HunterCobros\\form\\login.aspx.vb",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\HunterCobros\\form\\login.aspx.vb",
+              "RelativeToolTip": "HunterCobros\\form\\login.aspx.vb",
+              "ViewState": "AgIAADUAAAAAAAAAAAAvwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-14T20:53:03.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "login.aspx",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\HunterCobros\\form\\login.aspx",
+              "RelativeDocumentMoniker": "HunterCobros\\form\\login.aspx",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\HunterCobros2\\HunterCobros\\form\\login.aspx",
+              "RelativeToolTip": "HunterCobros\\form\\login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-14T20:46:36.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

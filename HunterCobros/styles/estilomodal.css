@@ -1,0 +1,78 @@
+﻿
+#fld1
+{
+    width: 544px;
+    height: 210px;
+}
+#form1
+{
+    width: 553px;
+    height: 210px;
+}
+.body
+{
+    width: 565px;
+    height: 220px;
+    font-size: 14px;
+    color: Black;
+    padding: 10px;
+    margin: 0px;
+    font-family: 'Open Sans' , Calibri, Candara, Arial, sans-serif;
+}
+.contenedor
+{
+    width: 553px;
+    height: 215px;
+}
+.menu
+{
+    height: 40px;
+    margin: 5px 0 0 0;
+}
+.menu2
+{
+    height: 80px;
+    margin: 5px 0 0 0;
+}
+.icono
+{
+    float: left;
+    width: 30px;
+    height: 30px;
+    margin: 5px 0 0 5px;
+}
+.secc_title01
+{
+    text-align: center;
+    font-size: large !important;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.column01_cell_label
+{
+    float: left;
+    width: 120px;
+    height: 30px;
+    padding: 5px 5px;
+    font-weight: bold;
+    text-align: right;
+}
+.column02_cell
+{
+    float: left;
+    width: 230px;
+    height: 30px;
+    padding: 5px 5px;
+    font-weight: bold;
+    text-align: right;
+}
+.column03_cell
+{
+    float: left;
+    width: 400px;
+    height: 70px;
+    padding: 5px 5px;
+    font-weight: bold;
+    text-align: right;
+}

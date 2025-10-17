@@ -1,0 +1,138 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Principal.master.vb" Inherits="HunterCobros.Principal" %>
+<%@ Register Assembly="Telerik.Web.UI" Namespace="Telerik.Web.UI" TagPrefix="telerik" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head id="Head1" runat="server">
+        <title>Hunter Cobros</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="robots" content="noindex" />
+        <meta http-equiv="x-ua-compatible" content="IE=9"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="shortcut icon" href="../imagen/favicon.ico" />
+        <asp:ContentPlaceHolder ID="head" runat="server">
+        </asp:ContentPlaceHolder>
+        <link href="../styles/stylesmaster.css" rel="stylesheet" type="text/css" />
+        <!--Inicio Script para bloquear click derecho -->
+        <script language="javascript" type="text/javascript">
+//            var message = "© Carseg S.A. 2017. Todos los derechos reservados";
+//            function clickIE4() 
+//            {
+//                if (event.button == 2) 
+//                {
+//                    alert(message);
+//                    return false;
+//                }
+//            }
+//            function clickNS4(e) 
+//            {
+//                if (document.layers || document.getElementById && !document.all) 
+//                {
+//                    if (e.which == 2 || e.which == 3) 
+//                    {
+//                        alert(message);
+//                        return false;
+//                    }
+//                }
+//            }
+//            if (document.layers) 
+//            {
+//                document.captureEvents(Event.MOUSEDOWN);
+//                document.onmousedown = clickNS4;
+//            }  else if (document.all && !document.getElementById) 
+//            {
+//                document.onmousedown = clickIE4;
+//            }
+//            document.oncontextmenu = new Function("alert(message);return false")
+        </script>
+        <!--Fin Script para bloquear click derecho -->
+        <script type="text/javascript">
+            window.history.forward();
+            function noBack() { window.history.forward(); }
+        </script>
+    </head>
+    <body onunload="return window_onunload()" onload="noBack();" >
+        <script type="text/javascript">
+            idleTime = 0;
+            $(document).ready(function () 
+            {
+                //Increment the idle time counter every minute.
+                var idleInterval = setInterval("timerIncrement()", 600000); // 1 minute
+                //Zero the idle timer on mouse movement.
+                $(this).mousemove(function (e) 
+                {
+                    idleTime = 0;
+                });
+                $(this).keypress(function (e) 
+                {
+                    idleTime = 0;
+                });
+            })
+            
+            function timerIncrement() 
+            {
+                idleTime = idleTime + 1;
+                if (idleTime > 19) 
+                { // 20 minutes
+                    //window.location.reload();
+                    location.href = 'login.aspx';
+                }
+            }
+
+            function window_onunload() 
+            {
+            }
+            
+            window.onbeforeunload = function () 
+            {
+                if ((window.event.clientX < 0) || (window.event.clientY < 0)) 
+                { //if close window
+                    $("#<%=btnSalir.ClientID %>").click(function () 
+                    {
+                        $("input[id='hPassvalue']").val("welcome to aspxtutorial.com");
+                    });
+                    event.returnValue = "Desea cerrar el navegador, ha realizado cambios en el reporte";
+                }
+            }      
+        </script>
+        <form id="form1" runat="server">
+            <div id="container">
+                <div id="banner">
+                    <div class="logo_image">
+                        <asp:Image ID="imgLogo" runat="server"  Width="222px" Height="55px" ImageUrl="../imagen/hunterlogo.png" />
+                    </div>
+                    <div class="content_user">
+                        <div class="content_user_photo">
+                            <asp:Image ID="imgUser" runat="server" ImageUrl="../imagen/icons/male32x32.png" />
+                        </div>
+                        <div class="content_user_info">
+                            <h4>
+                                Bienvenido(a):
+                            </h4>
+                            <h5>
+                                <asp:Label ID="lblUserName" runat="server" Text="" />
+                            </h5>
+                        </div>
+                        <div class="content_user_logoff">
+                            <telerik:RadButton ID="BtnSalir" runat="server" Text="Salir" ForeColor="Black" Style="top: 0px;
+                                left: 0px; height: 32px; width: 32px" ToolTip="Salir de la aplicación">
+                                <Image IsBackgroundImage="False" ImageUrl="../imagen/icons/logout32x32.png"
+                                    HoveredImageUrl="../imagen/icons/logout32x32over.png" PressedImageUrl="../imagen/icons/logout32x32press.png" />
+                            </telerik:RadButton>
+                        </div>
+                    </div>
+                    <div id="menu">
+                        <telerik:RadMenu ID="RadMenu1" runat="server" Skin="Default"></telerik:RadMenu>
+                    </div>
+                </div>
+                <div id="content">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+                </div>
+                <div id="footer">
+                    <p class="leftt">
+                        @ Copyright Carseg S.A. Derechos Reservados 2017<br />
+                    </p>
+                </div>
+            </div>
+        </form>
+    </body>
+</html>

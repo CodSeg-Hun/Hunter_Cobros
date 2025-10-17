@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>
+    </SchemaVersion>
+    <ProjectGuid>{4740EEED-ECD3-427E-A73D-E2B828AE8C14}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <RootNamespace>HunterCobros</RootNamespace>
+    <AssemblyName>HunterCobros</AssemblyName>
+    <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
+    <MyType>Custom</MyType>
+    <UseIISExpress>false</UseIISExpress>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <TargetFrameworkProfile />
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>HunterCobros.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>HunterCobros.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Cryptography, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="DataBaseApp, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DataBaseApp.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Data.v12.1, Version=12.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.Data.v12.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Web.ASPxEditors.v12.1, Version=12.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.Web.ASPxEditors.v12.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Web.v12.1, Version=12.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.Web.v12.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v12.1, Version=12.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.3.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Libreria, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Libreria.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="Telerik.Web.UI, Version=2013.1.417.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Telerik.Web.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.Web.UI.Skins, Version=2013.1.417.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Telerik.Web.UI.Skins.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Collections.Specialized" />
+    <Import Include="System.Configuration" />
+    <Import Include="System.Text" />
+    <Import Include="System.Text.RegularExpressions" />
+    <Import Include="System.Web" />
+    <Import Include="System.Web.Caching" />
+    <Import Include="System.Web.SessionState" />
+    <Import Include="System.Web.Security" />
+    <Import Include="System.Web.Profile" />
+    <Import Include="System.Web.UI" />
+    <Import Include="System.Web.UI.WebControls" />
+    <Import Include="System.Web.UI.WebControls.WebParts" />
+    <Import Include="System.Web.UI.HtmlControls" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Cryptography.dll" />
+    <Content Include="bin\DataBaseApp.dll" />
+    <Content Include="bin\DevExpress.Data.v12.1.dll" />
+    <Content Include="bin\DevExpress.Data.v12.1.xml" />
+    <Content Include="bin\DevExpress.Web.ASPxEditors.v12.1.dll" />
+    <Content Include="bin\DevExpress.Web.ASPxEditors.v12.1.xml" />
+    <Content Include="bin\DevExpress.Web.v12.1.dll" />
+    <Content Include="bin\HunterCobros.dll" />
+    <Content Include="bin\ICSharpCode.SharpZipLib.dll" />
+    <Content Include="bin\itextsharp.dll" />
+    <Content Include="bin\Libreria.dll" />
+    <Content Include="bin\Microsoft.VisualBasic.dll" />
+    <Content Include="bin\Telerik.Web.UI.dll" />
+    <Content Include="bin\Telerik.Web.UI.Skins.dll" />
+    <Content Include="form\Consultar.aspx" />
+    <Content Include="form\Consultar_detalle.aspx" />
+    <Content Include="form\Inicio.aspx" />
+    <Content Include="form\login.aspx" />
+    <Content Include="form\Recibo.aspx" />
+    <Content Include="form\ReciboAnulacion.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="imagen\favicon.ico" />
+    <Content Include="imagen\favicon1.ico" />
+    <Content Include="imagen\fondoBoton.png" />
+    <Content Include="imagen\header002.jpg" />
+    <Content Include="imagen\hunterlogo.png" />
+    <Content Include="imagen\hunterlogo_.png" />
+    <Content Include="imagen\icons\Add.png" />
+    <Content Include="imagen\icons\Add3.png" />
+    <Content Include="imagen\icons\Add_disable.png" />
+    <Content Include="imagen\icons\cancel.png" />
+    <Content Include="imagen\icons\check28x28.png" />
+    <Content Include="imagen\icons\Close_disable.png" />
+    <Content Include="imagen\icons\Close.png" />
+    <Content Include="imagen\icons\download32x32.png" />
+    <Content Include="imagen\icons\download32x32_disable.png" />
+    <Content Include="imagen\icons\Edit_page.png" />
+    <Content Include="imagen\icons\female32x32.png" />
+    <Content Include="imagen\icons\imprimir.png" />
+    <Content Include="imagen\icons\logout32x32.png" />
+    <Content Include="imagen\icons\logout32x32over.png" />
+    <Content Include="imagen\icons\logout32x32press.png" />
+    <Content Include="imagen\icons\male32x32.png" />
+    <Content Include="imagen\icons\new_mail.png" />
+    <Content Include="imagen\icons\new_mail_01.png" />
+    <Content Include="imagen\icons\new_mail_disable.png" />
+    <Content Include="imagen\icons\Preview.png" />
+    <Content Include="imagen\icons\Preview3.png" />
+    <Content Include="imagen\icons\Preview_disable.png" />
+    <Content Include="imagen\icons\printer232x32.png" />
+    <Content Include="imagen\icons\Processok32x32.png" />
+    <Content Include="imagen\icons\Processok32x32_disable.png" />
+    <Content Include="imagen\icons\save.png" />
+    <Content Include="imagen\icons\Trash2.png" />
+    <Content Include="imagen\icons\Trash2_disable.png" />
+    <Content Include="imagen\icons\turnoff.png" />
+    <Content Include="imagen\icons\Undo.png" />
+    <Content Include="imagen\icons\Undo_disable.png" />
+    <Content Include="imagen\ImagenCabecera.png" />
+    <Content Include="imagen\ImagenCabeceraant.png" />
+    <Content Include="imagen\login_button_001.png" />
+    <Content Include="imagen\login_button_002.png" />
+    <Content Include="imagen\login_button_003.png" />
+    <Content Include="imagen\login_form_blue2.png" />
+    <Content Include="imagen\logoextranet.png" />
+    <Content Include="imagen\logo_hunter.jpg" />
+    <Content Include="imagen\logo_hunter_.jpg" />
+    <Content Include="imagen\toppanel3.png" />
+    <Content Include="imagen\top_panel2.png" />
+    <Content Include="styles\estilogrid.css" />
+    <Content Include="styles\estilomodal.css" />
+    <Content Include="styles\styleslogin.css" />
+    <Content Include="styles\stylesmaster.css" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="xml\Config.xml">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="class\Clslogin.vb" />
+    <Compile Include="class\Clsrecibo.vb" />
+    <Compile Include="class\CreacionPdf.vb" />
+    <Compile Include="class\dsHunterCobro.Designer.vb">
+      <DependentUpon>dsHunterCobro.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="class\ExceptionHandler.vb" />
+    <Compile Include="class\GenerarPdf.vb" />
+    <Compile Include="class\log.vb" />
+    <Compile Include="class\log_control.vb" />
+    <Compile Include="class\Numalet.vb" />
+    <Compile Include="form\Consultar.aspx.designer.vb">
+      <DependentUpon>Consultar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="form\Consultar.aspx.vb">
+      <DependentUpon>Consultar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="form\Consultar_detalle.aspx.designer.vb">
+      <DependentUpon>Consultar_detalle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="form\Consultar_detalle.aspx.vb">
+      <DependentUpon>Consultar_detalle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="form\Inicio.aspx.designer.vb">
+      <DependentUpon>Inicio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="form\Inicio.aspx.vb">
+      <DependentUpon>Inicio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="form\login.aspx.designer.vb">
+      <DependentUpon>login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="form\login.aspx.vb">
+      <DependentUpon>login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="form\Principal.Master.designer.vb">
+      <DependentUpon>Principal.Master</DependentUpon>
+    </Compile>
+    <Compile Include="form\Principal.Master.vb">
+      <DependentUpon>Principal.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="form\Recibo.aspx.designer.vb">
+      <DependentUpon>Recibo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="form\Recibo.aspx.vb">
+      <DependentUpon>Recibo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="form\ReciboAnulacion.aspx.designer.vb">
+      <DependentUpon>ReciboAnulacion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="form\ReciboAnulacion.aspx.vb">
+      <DependentUpon>ReciboAnulacion.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Global.asax.vb">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\MyExtensions\MyWebExtension.vb">
+      <VBMyExtensionTemplateID>Microsoft.VisualBasic.Web.MyExtension</VBMyExtensionTemplateID>
+      <VBMyExtensionTemplateVersion>1.0.0.0</VBMyExtensionTemplateVersion>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="form\Principal.Master" />
+    <None Include="class\dsHunterCobro.xsc">
+      <DependentUpon>dsHunterCobro.xsd</DependentUpon>
+    </None>
+    <None Include="class\dsHunterCobro.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsHunterCobro.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="class\dsHunterCobro.xss">
+      <DependentUpon>dsHunterCobro.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>58342</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
